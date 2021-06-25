@@ -1,2 +1,4 @@
 # Covid19-Research
-Use data from https://ourworldindata.org/ for the covid19 pandemic and analyze them
+
+# Purpose #
+The purpose of this project is to analyze data for coronavirus pandemic, the data was provided by https://ourworldindata.org/. 
